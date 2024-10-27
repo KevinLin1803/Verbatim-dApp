@@ -29,8 +29,14 @@ The front-end was created using React and interacts with a database that's hoste
 
 Given more time, we would:
 
-Expand filtering options (e.g., salary, company type)
+Scrape more websites including LinkedIn, GlassDoor, and etc
 
 Optimize for broader job site compatibility
 
+Filter jobs based on soft and hard skills
+
 Add more robust error handling and testing
+
+Add colour palettes for users to choose
+
+
