@@ -1,7 +1,7 @@
 # Verbatim -dApp
 
 ## Summary
-This project utilises Koii nodes to scrape Indeed website in order to find jobs for students based on their skills and other preferences such as location and job roles. Without depending on centralised servers, this program effectively collects relevant job openings for students by utilising Koii's decentralised nodes.
+This project utilises Koii nodes to scrape Indeed website in order to find jobs for students based on their skills and other preferences such as location and job roles. Without depending on centralised servers, this program effectively collects relevant job openings for students by utilising Koii's decentralised nodes. Users that run the koii task and host the web-scraping on their own devices are rewarded with koii tokens.
 
 
 
@@ -22,10 +22,18 @@ The search keyword is used to retrieve relevant job opportunities from Mongo Dat
 
 ## Back-End Pictures
 <img width="924" alt="Screen Shot 2024-10-27 at 4 39 51 am" src="https://github.com/user-attachments/assets/34275233-8983-484f-b5b3-1ba12d755855">
+Our dApp uses MongoDB to store user information which can then be used to search for jobs. The DB also contains the results of the web-scraping.
 <img width="667" alt="Screen Shot 2024-10-27 at 4 40 36 am" src="https://github.com/user-attachments/assets/b43d4bee-384e-4154-9c54-a868d275efc8">
 
 ## Deployment
 ![image](https://github.com/user-attachments/assets/28d8c6ff-38c1-417e-a39d-9b47d5681f0f)
+
+
+
+## Video DEMO
+https://youtu.be/k-ubScBugbM
+
+
 
 
 
