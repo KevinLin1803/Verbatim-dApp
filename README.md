@@ -18,7 +18,7 @@ The front-end was created using React and interacts with a database that's hoste
 <img width="1106" alt="Screen Shot 2024-10-27 at 4 39 03 am" src="https://github.com/user-attachments/assets/fa2fa5ca-c352-417d-8295-12da51dfa2f0">
 <img width="1411" alt="Screen Shot 2024-10-27 at 4 38 23 am" src="https://github.com/user-attachments/assets/20be2218-69bc-403a-93b2-3cc16338d846">
 
-The search keyword is 
+The search keyword is used to retrieve relevant job opportunities from Mongo Database
 
 ## Back-End Pictures
 <img width="924" alt="Screen Shot 2024-10-27 at 4 39 51 am" src="https://github.com/user-attachments/assets/34275233-8983-484f-b5b3-1ba12d755855">
