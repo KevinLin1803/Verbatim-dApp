@@ -2,6 +2,9 @@
 
 ## What it does
 A decentralised Indeed job scraper that returns to users jobs based on their preferred job roles and titles. 
+This project utilises Koii nodes to scrape Indeed website in order to find jobs for students based on their skills and other preferences such as location and job-type. Without depending on centralised servers, this program effectively collects relevant job openings for students by utilising Koii's decentralised nodes.
+
+
 
 ## How it works
 The front-end was created using React and interacts with a database that's hosted on MongoDB. Our dApp hosted on Koii then fetches the userData and returns all relevant Indeed jobs. Users that run the this Verbatim webscraping task are rewarded with Koii tokens :). 
