@@ -30,5 +30,7 @@ The front-end was created using React and interacts with a database that's hoste
 Given more time, we would:
 
 Expand filtering options (e.g., salary, company type)
+
 Optimize for broader job site compatibility
+
 Add more robust error handling and testing
