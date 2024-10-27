@@ -18,6 +18,8 @@ The front-end was created using React and interacts with a database that's hoste
 <img width="1106" alt="Screen Shot 2024-10-27 at 4 39 03 am" src="https://github.com/user-attachments/assets/fa2fa5ca-c352-417d-8295-12da51dfa2f0">
 <img width="1411" alt="Screen Shot 2024-10-27 at 4 38 23 am" src="https://github.com/user-attachments/assets/20be2218-69bc-403a-93b2-3cc16338d846">
 
+The search keyword is 
+
 ## Back-End Pictures
 <img width="924" alt="Screen Shot 2024-10-27 at 4 39 51 am" src="https://github.com/user-attachments/assets/34275233-8983-484f-b5b3-1ba12d755855">
 <img width="667" alt="Screen Shot 2024-10-27 at 4 40 36 am" src="https://github.com/user-attachments/assets/b43d4bee-384e-4154-9c54-a868d275efc8">
