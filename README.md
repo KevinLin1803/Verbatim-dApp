@@ -1,12 +1,14 @@
 # Verbatim -dApp
 
-## What it does
+## Summary
 This project utilises Koii nodes to scrape Indeed website in order to find jobs for students based on their skills and other preferences such as location and job roles. Without depending on centralised servers, this program effectively collects relevant job openings for students by utilising Koii's decentralised nodes.
 
 
 
 ## How it works
 The front-end was created using React and interacts with a database that's hosted on MongoDB. Our dApp hosted on Koii then fetches the userData and returns all relevant Indeed jobs. Users that run the this Verbatim webscraping task are rewarded with Koii tokens :). 
+
+
 
 
 
