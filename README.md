@@ -1,4 +1,4 @@
-# Verbatim -dApp
+# Stuii JObs
 
 ## Summary
 This project utilises Koii nodes to scrape Indeed website in order to find jobs for students based on their skills and other preferences such as location and job roles. Without depending on centralised servers, this program effectively collects relevant job openings for students by utilising Koii's decentralised nodes. Users that run the koii task and host the web-scraping on their own devices are rewarded with koii tokens.
